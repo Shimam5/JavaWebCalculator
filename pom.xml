@@ -29,7 +29,7 @@
   <repository>
     <id>releases</id>
     <!-- <url>http://52.204.135.48:8081/nexus/content/repositories/releases</url> -->    
-    <url>http://binary.ibm.com/nexus/content/repositories/releases</url>
+    <url>http://18.60.130.208:8081/repository/Himams-Sample-Nexus/</url>
   </repository>
 </distributionManagement>
  <!-- <properties>
