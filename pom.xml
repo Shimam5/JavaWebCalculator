@@ -29,14 +29,12 @@
   <repository>
     <id>releases</id>
     <!-- <url>http://52.204.135.48:8081/nexus/content/repositories/releases</url> -->    
-    <url>http://18.60.130.208:8081/repository/Himams-Sample-Nexus/</url>
-  </repository>
-  <repository>
+    <!--<url>http://18.60.130.208:8081/repository/Himams-Sample-Nexus/</url> -->
+  
     <id>releases</id>
     <!-- Sonar Url </url> -->    
     <url>http://18.60.39.87:9000/projects</url>
-  </repository>
-  <repository>
+ 
     <id>releases</id>
     <!-- <url>Tomcat Url</url> -->    
     <url>http://18.60.117.235:8080/manager/html</url>
