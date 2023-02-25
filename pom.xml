@@ -37,7 +37,7 @@
  
    
     <!-- <url>Tomcat Url</url> -->    
-    <url>http://18.60.117.235:8080/manager/html</url>
+    <url>http://18.60.241.227:8080/manager/html</url>
   </repository>
 </distributionManagement>
  <!-- <properties>
